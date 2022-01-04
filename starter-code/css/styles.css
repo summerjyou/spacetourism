@@ -1,0 +1,60 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  color: #EAF6F6;
+}
+
+a {
+  text-decoration: none;
+  margin-left: 10px;
+  color: #EAF6F6;
+}
+
+
+.explore {
+  height: 300px;
+  width: 300px;
+  background: white;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 300px;
+  color: black;
+  font-family: 'Marcellus', serif;
+  font-weight: lighter;
+  letter-spacing: 5px;
+  position: absolute;
+  top: 50%;
+  right: 10%;
+}
+
+.menu {
+  height: 50px;
+  margin-left: 60%;
+  list-height: 50px;
+  font-family: 'Roboto Mono', sans-serif;
+}
+
+.space {
+  font-family: 'Marcellus', sans-serif;
+  font-weight: lighter;
+  font-size: 90px;
+  letter-spacing: 30px;
+  width: 500px;
+  margin: 10px auto auto 10%;
+}
+
+.travel-to {
+  postion: relative;
+  width: 500px;
+  font-weight: lighter;
+  margin-top: 20%;
+  margin-left: 10%;
+}
+
+.welcome {
+  width: 450px;
+  letter-spacing: normal;
+  font-family: Arial;
+  font-weight: lighter;
+  letter-spacing: 2px;
+  margin: 50px 10%;
+}
